@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+#etScout is intended for educational purposes only. Scanning a network without permission is illegal and unethical. Please use this tool responsibly.
 import nmap
 
 scanner = nmap.PortScanner()

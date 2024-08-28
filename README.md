@@ -70,5 +70,5 @@ Feel free to fork this repository and submit pull requests. For any issues, plea
 ## License
 This project is licensed under the MIT License.
 
-## Disclaimer
-<span style="color: red">**NetScout is intended for educational purposes only. Scanning a network without permission is illegal and unethical. Please use this tool responsibly.**</span>
+## <span style="color:red">Disclaimer</span>
+<span style="color:red">NetScout is intended for educational purposes only. Scanning a network without permission is illegal and unethical. Please use this tool responsibly.</span>
